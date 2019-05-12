@@ -1,8 +1,4 @@
-# pip install pyfiglet
-import pyfiglet
 
-ascii_banner = pyfiglet.figlet_format("JH Hacks")
-print(ascii_banner)
 '''
 TODO LIST:
 	Fix and make proxy function better
